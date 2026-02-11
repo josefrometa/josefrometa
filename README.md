@@ -28,21 +28,15 @@
 
 
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 
 
 
 <h3>🛠Learning</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | React
+- 🔧 &nbsp; <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,react" />
+  </a>
 
 <hr>
 
