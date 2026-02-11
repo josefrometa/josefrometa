@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing my own app.
 
-- 🎓 &nbsp; Studying DevOps culture at SocialOplesk.
+- 🎓 &nbsp; Studying DevOps at SocialOplesk.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -64,11 +64,14 @@
 
 
 
+<a href="https://www.linkedin.com/in/jose-frometa-8623412a0/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-
+<a href="https://www.linkedin.com/in/jose-frometa-8623412a0/">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 
 <hr>
