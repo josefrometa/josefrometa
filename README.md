@@ -69,7 +69,7 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/jose-frometa-8623412a0/">
+<a href="mailto:josel.frometa@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
