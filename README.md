@@ -22,8 +22,8 @@
 
 
 - 💻 &nbsp; <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, bash, html, css, bootstrap, js, py, flask, postgres, supabase" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,bootstrap,js,py,flask,postgres,supabase" />
+</a>
 
 
 
