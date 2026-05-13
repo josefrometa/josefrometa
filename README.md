@@ -21,7 +21,7 @@
 
 
 - 💻 &nbsp; <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,bootstrap,js,py,flask,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,bootstrap,js,react,py,flask,postgres,supabase" />
 </a>
 
 
@@ -34,7 +34,7 @@
 <h3>🛠Learning</h3>
 
 - 🔧 &nbsp; <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,react" />
+    <img src="https://skillicons.dev/icons?i=aws,docker" />
   </a>
 
 <hr>
